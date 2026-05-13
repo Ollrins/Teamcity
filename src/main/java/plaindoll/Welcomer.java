@@ -16,6 +16,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String getHunterReply() {
-    return "The hunter is always watching!";
+    return "The hunter never rests, always watching from the shadows!";
     }
 }
